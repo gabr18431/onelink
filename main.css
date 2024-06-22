@@ -1354,6 +1354,9 @@ header.qr-page.sticky .mobile-menu-container button.menu-burger i {
     .global-stats .container {
         flex-direction: column;
     }
+     .Connections-qr .cards-container .card-price:hover .card-section {
+        top: 5%;
+    }
 
     .testimonial .testimonial-container .testimonial-item {
         padding: 40px 15px;
